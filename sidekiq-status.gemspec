@@ -18,5 +18,4 @@ Gem::Specification.new do |gem|
   gem.add_dependency                  'sidekiq', '~> 3.2'
   gem.add_development_dependency      'rake'
   gem.add_development_dependency      'rspec'
-  gem.add_development_dependency      'rails', '=3.2.19'
 end
